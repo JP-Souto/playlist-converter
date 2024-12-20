@@ -1,0 +1,41 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.ldf
+*.mdf
+
+# Visual Studio specific
+.vs/
+.vscode/
+.vscode-test/
+launchSettings.json
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.csproj.user
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Rider IDE
+.idea/
+
+# Dependency folders
+node_modules/
+wwwroot/lib/
+
+# Visual Studio
+.vs/
+
